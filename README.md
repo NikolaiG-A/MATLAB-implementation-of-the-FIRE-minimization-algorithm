@@ -7,4 +7,4 @@ The files include:
 2. The MD integration schemes including the explicit Euler integration, semi-implicite Euler integration, Leapfrog integration, Verlet integration (MDintegrator.m). The integration algorithms are adjusted as described in the paper.
 3. The FIRE minimization algorithm (FIRE.m).
 4. Example file (example.m) of minimization of the multivalued function
-<img src="https://render.githubusercontent.com/render/math?math= e^{x-2*x^2-y^2}sin(6*(x + y + x*y^2))">
+<img src="https://render.githubusercontent.com/render/math?math= e^{x-2x^2-y^2}">
