@@ -1,4 +1,4 @@
-# MATLAB-implementation-of-the-FIRE-minimization-algorithm
+## MATLAB implementation of the FIRE minimization algorithm
 
 These files contain MATLAB implementation of the fast inertial relaxation engine (FIRE) algorithm. It is used in local energy minimisation during atomistic simulations in Molecular Dynamics (MD) simulations. The implementation follows the original article Guénolé, J., Nöhring, W. G., Vaid, A., Houllé, F., Xie, Z., Prakash, A., & Bitzek, E. (2020). Assessment and optimization of the fast inertial relaxation engine (fire) for energy minimization in atomistic simulations and its implementation in lammps. Computational Materials Science, 175, 109584.
 
